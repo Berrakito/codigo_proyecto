@@ -1,0 +1,15 @@
+.btn-read-more {
+	padding: 1rem 3rem;
+	background-color: var(--primary-color);
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 1.4rem;
+	border-radius: 2rem;
+	margin: 3rem 0 5rem;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.btn-read-more:hover {
+	background-color: var(--dark-color);
+}

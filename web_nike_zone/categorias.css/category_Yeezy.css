@@ -1,0 +1,23 @@
+.category_Yeezy {
+	background-image: linear-gradient(#00000080, #00000080),
+		url(./img_y_c_s/Yeezy.jpg);
+	background-size: cover;
+	background-position: bottom;
+	background-repeat: no-repeat;
+}
+
+.category-crocs {
+	background-image: linear-gradient(#00000080, #00000080),
+		url(./img_y_c_s/Crocs.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.category-Sandalia {
+	background-image: linear-gradient(#00000080, #00000080),
+		url(./img_y_c_s/Sandalia.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}

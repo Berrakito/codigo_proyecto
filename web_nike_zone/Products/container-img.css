@@ -1,0 +1,17 @@
+.container-img {
+	position: relative;
+}
+
+.container-img img {
+	width: 105%;
+}
+
+.container-img .discount {
+	position: absolute;
+	left: 0;
+	background-color: var(--primary-color);
+	color: #fff;
+	padding: 2px 1.2rem;
+	border-radius: 1rem;
+	font-size: 1.2rem;
+}
